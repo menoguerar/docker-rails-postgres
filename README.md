@@ -1,4 +1,4 @@
-# docker-rails-postgres
+# docker-rails-postgres gg
 
 This repo is used as a template to get started with a development environment using Docker Compose, Rails, and Postgress. 
 
